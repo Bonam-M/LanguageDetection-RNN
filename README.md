@@ -32,10 +32,10 @@ Then, train the model on 20 000 names while keeping track of the current loss an
 ## What can you find in this repo?
 Here is a description of the content of this repository.
 
-### Notebook containing the full step by step process
+#### Notebook containing the full step by step process
 The Notebook has all the instructions on the packages required to run the experiment and test the model on your local machine.
 
-### Datasets
+#### Datasets
 You'll find all the text files used to train the model under the _data_ folder.
 
 ## Happy ML coding
