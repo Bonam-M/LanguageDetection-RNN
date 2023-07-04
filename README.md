@@ -21,7 +21,7 @@ Create a dictionary all the names in a specific languages and a list of all the 
 #### Preprocess the data
 Convert every letter or character in a name to its one-hot encoder equivalent. Then, transform each indivual name in the dataset to its tensor format.
 
-#### Designing the Recurrent Neural Network (RNN)
+#### Build the Recurrent Neural Network (RNN)
 The RNN helps to classify the names in specific categories, in this case the categories are the languages in the vocabulary of our projects.
 
 #### Train and Test the RNN model
